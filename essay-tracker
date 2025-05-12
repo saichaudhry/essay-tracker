@@ -1,0 +1,7 @@
+cd path/to/essay-tracker  # go into the unzipped folder
+git init
+git remote add origin https://github.com/saichaudhry/essay-tracker.git
+git add .
+git commit -m "Initial commit"
+git branch -M main
+git push -u origin main
